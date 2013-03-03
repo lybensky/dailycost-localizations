@@ -61,7 +61,7 @@
 			"favoriteCurrencies": "Мои валюты",
 			"allCurrencies": "Все валюты",
 
-			"emptyCatlist": "Ой, здесь еще нет здесь",
+			"emptyCatlist": "Ой, здесь еще нет расходов",
 
 			"feedbackEmailSubject": "Оставить отзыв",
 
